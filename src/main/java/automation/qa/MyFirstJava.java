@@ -9,7 +9,7 @@ public class MyFirstJava {
         Scanner scanner = new Scanner(System.in);
         String firstName = scanner.next();
 
-        System.out.println("Your favorite hobby is: ");
+        System.out.println("Please enter your favorite hobby: ");
         String hobby = scanner.next();
 
 
